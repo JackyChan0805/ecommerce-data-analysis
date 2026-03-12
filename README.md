@@ -28,7 +28,8 @@ This project analyzes an e-commerce dataset to extract actionable business insig
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up Kaggle API (see instructions)
-4. Run the Jupyter notebook
+4. Run the data_clean.py to get the cleaned_ecommerce_data.csv
+5. Run the Jupyter notebook
 
 ## Dataset
 Source: [Kaggle - E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
